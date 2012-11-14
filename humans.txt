@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+                            
+/* TEAM */                            
+Your title: Nick Van den Bleeken
+Site: nick@bleeken.eu       
+Twitter: @nvdbleek          
+Location: Hoogerheide, Netherlands
+
+/* SITE */                            
+Standards: HTML5, CSS3      
+Software: Eclipse
