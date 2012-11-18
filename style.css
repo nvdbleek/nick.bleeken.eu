@@ -40,23 +40,22 @@ p {
 	max-width: 800px;
 	background: #f3f3f3;
 	margin: 30px auto;
-	border-radius: 5px; 
-	-moz-border-radius: 5px; 
-	-webkit-border-radius: 5px; 
-	border: solid #f3f3f3 1px;
+	border-radius: 25px; 
+	-moz-border-radius: 25px; 
+	-webkit-border-radius: 25px; 
 }
 
 .mainDetails {
 	padding: 25px 35px;
 	border-bottom: 2px solid #cf8a05;
 	background: #ededed;
-	border-top-left-radius: 5px;
-	border-top-right-radius: 5px;
-	-moz-border-radius: 5px;
-	-moz-border-radius-topright: 5px;
-	-moz-border-radius-topleft: 5px;
-	-webkit-border-top-right-radius: 5px; 
-	-webkit-border-top-left-radius: 5px;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+	-moz-border-radius: 25px;
+	-moz-border-radius-topright: 25px;
+	-moz-border-radius-topleft: 25px;
+	-webkit-border-top-right-radius: 25px; 
+	-webkit-border-top-left-radius: 25px;
 }
 
 #name h1 {
